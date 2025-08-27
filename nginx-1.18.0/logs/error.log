@@ -1,0 +1,4 @@
+2025/08/10 11:00:39 [emerg] 23928#5336: CreateDirectory() "D:\DianPing\nginx-1.18.0/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2025/08/10 11:00:53 [emerg] 25292#25296: CreateDirectory() "D:\DianPing\nginx-1.18.0/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2025/08/10 23:07:16 [alert] 9828#11540: worker process 15648 exited with code C0000142
+2025/08/10 23:07:16 [alert] 9828#11540: could not respawn worker
