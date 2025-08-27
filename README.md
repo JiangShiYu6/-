@@ -1,8 +1,4 @@
-# heima-redis
-
-## redis黑马点评介绍
-
-<img src="./images/项目简介.png" alt=" " style="zoom:33%;" />
+##  寻味记
 
 ## 功能介绍
 
